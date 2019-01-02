@@ -1,7 +1,9 @@
 # Unit 42 : Is this seat taken ? 
+
 <audio controls>
   <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e601f95e3500064f42e9">
 </audio>
+
 ## CONVERSATION
 * W: Excuse me, is this seat taken?
 * M: I’m sorry, what?
@@ -14,12 +16,10 @@
 ## WORDS & PHRASES 
 單字 vocabulary| 發音 pronunciation | 翻譯 translation
 --- | --- | ---
-backpack  | [ˈbækˌpæk] | (n.) (登山、遠足用的)背包 
-missing  | [ˈmɪsɪŋ] | (adj.) 遺失的 
-keep an eye on  | | (phr.) 照看；注意 
-passport  | [ˈpæsˌport] | (n.)[C] 護照；通行證；執照 
-panic | [ˈpænɪk] | (n.) (v.) 恐慌，驚慌 
-counter | [ˈkaʊntɚ] | (n.)[C] 櫃臺 
+taken | [ˈteɪkən] | (v.) 拿，取；握，抱(take 的過去分詞) 
+boyfriend  | [ˈbɔɪˌfrɛnd] | (n.)【口】男朋友；女子的情人 
+move over  | | (phr.) 移過去
+no big deal  | | (phr.) 沒什麼大不了的事情
 
 ## LANGUAGE FOCUS 
 > <h3>Is this + N + Adj.</h3>
