@@ -1,4 +1,9 @@
 # Unit 40 : Would you please help me ? 
+
+<audio controls>
+  <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e5fef95e3500064f42e5">
+</audio>
+
 ## CONVERSATION
 * W:  Excuse me, would you please help me?
 * M:  What’s wrong?
@@ -8,7 +13,7 @@
 * M:  Okay, I’ll let him know.
 
 ## WORDS & PHRASES 
-. | . | .
+單字 vocabulary| 發音 pronunciation | 翻譯 translation
 --- | --- | ---
 Spanish | [ˈspænɪʃ] | (n.) 西班牙語 (adj.) 西班牙的；西班牙人的
 clerk | [klɝk] | (n.)[C] 辦事員，職員 

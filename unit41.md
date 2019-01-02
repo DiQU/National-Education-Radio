@@ -1,4 +1,9 @@
 # Unit 41 : You should’ve kept an eye on it 
+
+<audio controls>
+  <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e5fff95e3500064f42e7">
+</audio>
+
 ## CONVERSATION
 * W: Where is my backpack? It’s missing!
 * M: I don’t know. Where did you leave it?
@@ -8,7 +13,7 @@
 * M: Don’t panic, let’s go to the counter and ask if they have seen it. 
 
 ## WORDS & PHRASES 
-. | . | .
+單字 vocabulary| 發音 pronunciation | 翻譯 translation
 --- | --- | ---
 backpack  | [ˈbækˌpæk] | (n.) (登山、遠足用的)背包 
 missing  | [ˈmɪsɪŋ] | (adj.) 遺失的 

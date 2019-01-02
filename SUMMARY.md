@@ -6,6 +6,3 @@
 * [Unit 42 : Is this seat taken ?](unit42.md)
 * [Unit 43 : Is this seat taken ?](unit43.md)
 
-
-
-
