@@ -1,0 +1,36 @@
+National Education Radio
+ with Kenneth Chyi 齊 斌 老師製作&主持
+- 46 -
+ I wish I could get away for a while
+A. CONVERSATION
+M: Sarah, you looked tired. Are you okay?
+W: No…I feel so stressed out by all my work. Sometimes I just wish I could get away for
+a while.
+M: And you should! It can make you feel so much better. Why not take a trip out of the
+country?
+W: What? That’s impossible. I never thought of that.
+M: You should consider it. I just got back from my own trip and now I feel refreshed.
+W: Hmm…maybe I could try it out. Thanks for the advice.
+B. WORDS & PHRASES
+1. stressed [kfqUkf] (adj.) 緊張的，感到有壓力的
+2. get away (phr.) 逃脫
+3. impossible [amtdFkQex] (adj.) 不可能的，辦不到的
+4. consider [hQntkagR] (v.) 考慮，細想
+5. refresh [qatiqUX] (v.) 使清新，使清涼
+6. advice [QgtjAak] (n.)[U] 勸告，忠告
+C. LANGUAGE FOCUS
+I wish (that) +S +V
+《Examples》
+1. I wish I would become a millionaire someday.
+2. I wish I had a boyfriend.
+D. EXERCISES
+A: _____ I knew what you are talking about.
+B: I can explain everything to you again.
+《Answer Key》: I wish
+ 46
+
+ title=/- (\d+) -\n ([\w ]+)/
+p2=/(\S+ ?)+\b/g
+p3=A. CONVERSATION\n(\S+\s)+B. WORDS & PHRASES
+p4=B. WORDS & PHRASES\n(\S+\s)+C. LANGUAGE FOCUS
+《Answer Key》\D+ ?
