@@ -91,17 +91,17 @@ function handleA(str) {
 }
 
 function handleB(str) {
-    // let regexp1 = /\w+ ?\w+ /g
-    // let regexp2 = /\((\S+)\)(\[\w?\])*\s\S+/g
-    let regexp1 = /(\w+ ?)+ /g
+    //e.g. 'aaa','aaa aaa','aaa-aaa'
+    let regexp1 = /\d+\. (\w+[- ]?\w+)/g
     let regexp2 = /\(.+/g
     let outStr = ''
 
     let x = str.match(regexp1)
     let y = str.match(regexp2)
+    console.log(x)
 
     for (let i = 0; i < x.length; i++) {
-        outStr += x[i].trim() + "||" + y[i] + '\n';
+        outStr += x[i].replace(/d+\. /,'') + "||" + y[i] + '\n';
     }
 
     return outStr.trim();

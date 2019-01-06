@@ -1,7 +1,7 @@
 # Uint 49 : Make it fast please
-
+* [Uint 49 : Make it fast please](unit49.md)
 <audio controls>
-  <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e608f95e3500064f42f7">
+  <source src="">
 </audio>
 
 ## CONVERSATION
@@ -16,12 +16,11 @@
 ## WORDS & PHRASES
 單字 vocabulary|發音 pronunciation|翻譯 translation
 ---|---|---
-purse||(n.)[C] 錢包
-over there||(phr.) 在那裡
-dollar||(n.) 元
-free||(adj.) 免稅的
-tgsbfa||(adv.) 無疑地；必定；確實
-certainly||undefined
+1. purse||(n.)[C] 錢包
+2. over there||(phr.) 在那裡
+3. dollar||(n.) 元
+4. duty-free||(adj.) 免稅的
+5. certainly||(adv.) 無疑地；必定；確實
 
 ## LANGUAGE FOCUS 
 <h3> Make it + ADJ</h3>
