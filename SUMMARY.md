@@ -10,3 +10,5 @@
 * [Unit 46 : I wish I could get away for a while](unit46.md)
 * [Unit 47 : You’ve got to try this](unit47.md)
 * [Uint 48 : Let me clean my own room](unit47.md)
+* [Uint 49 : Make it fast please](unit49.md)
+* [Uint 50 : No wonder there are so many people](unit50.md)
