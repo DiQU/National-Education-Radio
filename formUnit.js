@@ -29,8 +29,8 @@ function printGitbook(file) {
     
 
     let outFile = `
-# Uint ${unit[1]} : ${unit[3]}
-* [Uint ${unit[1]} : ${unit[3]}](unit${unit[1]}.md)
+# Unit ${unit[1]} : ${unit[3]}
+* [Unit ${unit[1]} : ${unit[3]}](unit${unit[1]}.md)
 <audio controls>
   <source src="">
 </audio>
@@ -44,7 +44,7 @@ ${partA}
 ${partB}
 
 ## LANGUAGE FOCUS 
-<h3> ${partC1}</h3>
+> <h3>${partC1}</h3>
 
 ##### 《Examples》
 ${partC2}

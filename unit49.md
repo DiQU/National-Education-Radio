@@ -1,4 +1,4 @@
-# Uint 49 : Make it fast please
+# Unit 49 : Make it fast please
 
 <audio controls>
   <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e608f95e3500064f42f7">
@@ -23,7 +23,7 @@ duty-free||(adj.) 免稅的
 certainly||(adv.) 無疑地；必定；確實
 
 ## LANGUAGE FOCUS 
-<h3> Make it + ADJ</h3>
+> <h3> Make it + ADJ</h3>
 
 ##### 《Examples》
 1. Can you make it quick?

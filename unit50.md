@@ -1,4 +1,4 @@
-# Uint 50 : No wonder there are so many people
+# Unit 50 : No wonder there are so many people
 
 <audio controls>
   <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e609f95e3500064f42f9">
@@ -23,7 +23,7 @@ complain||(v.) 抱怨，發牢騷
 glad||(adj.) 高興的，快活的
 
 ## LANGUAGE FOCUS 
-<h3> No wonder + S+ V</h3>
+> <h3> No wonder + S+ V</h3>
 
 ##### 《Examples》
 1. No wonder he is so proud.
