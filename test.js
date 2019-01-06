@@ -24,7 +24,7 @@ function printGitbook(file) {
     let partC2 = searchPart(file, '《Examples》', 'D. EXERCISES')
     let partD1 = searchPart(file, 'D. EXERCISES', '《Answer Key》')
     partD1 = handleD1(partD1)
-    let partD2 = file.match(/《Answer Key》: .+/)
+    let partD2 = file.match(/《Answer Key》: ?(.+)/)
    
     
 
@@ -52,7 +52,7 @@ ${partC2}
 ## EXERCISES 
 ${partD1}
 
-\`${partD2}\`
+\`《Answer Key》: ${partD2[1]}\`
 `
     return outFile.trim()
 }
