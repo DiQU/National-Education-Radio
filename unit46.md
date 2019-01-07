@@ -1,6 +1,6 @@
 # Unit 46 : I wish I could get away for a while
 
-<audio controls>
+<audio controls preload="none">
   <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e605f95e3500064f42f1">
 </audio>
 

@@ -1,6 +1,6 @@
 # Unit 40 : Would you please help me ? 
 
-<audio controls>
+<audio controls preload="none">
   <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e5fef95e3500064f42e5">
 </audio>
 

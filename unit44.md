@@ -1,6 +1,6 @@
 # Unit 44 : We’ve got three holidays in a row !  
 
-<audio controls>
+<audio controls preload="none">
   <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e603f95e3500064f42ed">
 </audio>
 

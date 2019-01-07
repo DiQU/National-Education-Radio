@@ -1,6 +1,6 @@
 # Unit 41 : You should’ve kept an eye on it 
 
-<audio controls>
+<audio controls preload="none">
   <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e5fff95e3500064f42e7">
 </audio>
 

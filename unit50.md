@@ -1,6 +1,6 @@
 # Unit 50 : No wonder there are so many people
 
-<audio controls>
+<audio controls preload="none">
   <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e609f95e3500064f42f9">
 </audio>
 

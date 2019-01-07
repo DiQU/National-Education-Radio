@@ -1,6 +1,6 @@
 # Unit 49 : Make it fast please
 
-<audio controls>
+<audio controls preload="none">
   <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e608f95e3500064f42f7">
 </audio>
 

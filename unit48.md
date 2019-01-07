@@ -1,6 +1,6 @@
 # Unit 48 : Let me clean my own room
 
-<audio controls>
+<audio controls preload="none">
   <source src="https://channelplus.ner.gov.tw/api/audio/5aa793d91263ec00059fb470">
 </audio>
 

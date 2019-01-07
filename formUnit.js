@@ -31,7 +31,7 @@ function printGitbook(file) {
     let outFile = `
 # Unit ${unit[1]} : ${unit[3]}
 * [Unit ${unit[1]} : ${unit[3]}](unit${unit[1]}.md)
-<audio controls>
+<audio controls preload="none">
   <source src="">
 </audio>
 

@@ -1,6 +1,6 @@
 # Uint 47 : You’ve got to try this
 
-<audio controls>
+<audio controls preload="none">
   <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e606f95e3500064f42f3">
 </audio>
 

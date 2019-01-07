@@ -1,6 +1,6 @@
 # Unit 42 : Is this seat taken ? 
 
-<audio controls>
+<audio controls preload="none">
   <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e601f95e3500064f42e9">
 </audio>
 

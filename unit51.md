@@ -1,6 +1,6 @@
 # Unit 51 : Let’s go shopping!
 
-<audio controls>
+<audio controls preload="none">
   <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e60af95e3500064f42fb">
 </audio>
 
