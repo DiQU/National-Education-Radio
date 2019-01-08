@@ -76,7 +76,7 @@ function handleUnit(file) {
     let str=[]
     str[0]=`Unit ${unit[1]} : ${unit[3]}`
     str[1]=`* [Unit ${unit[1]} : ${unit[3]}](./ch2/unit${unit[1]}.md)`
-    console.log(unit);
+    // console.log(unit);
 
     return str
     
