@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Unit1~50]
+* [Unit1~50 旅行篇]
     * [Unit 40 : Would you please help me ?](./ch1/unit40.md)
     * [Unit 41 : You should’ve kept an eye on it](./ch1/unit41.md)
     * [Unit 42 : Is this seat taken ?](./ch1/unit42.md)
@@ -13,7 +13,7 @@
     * [Unit 48 : Let me clean my own room](./ch1/unit47.md)
     * [Unit 49 : Make it fast please](./ch1/unit49.md)
     * [Unit 50 : No wonder there are so many people](./ch1/unit50.md)
-* [Unit51~]
+* [Unit51~ 購物篇]
     * [Unit 51 : Let’s go shopping!](./ch2/unit51.md)
     * [Unit 52 : Which dress do you like better?](./ch2/unit52.md)
     * [Unit 53 : It’s up to you](./ch2/unit53.md)
@@ -21,4 +21,6 @@
     * [Unit 55 : How about this one?](./ch2/unit55.md)
     * [Unit 56 : It is because of its price](./ch2/unit56.md)
     * [Unit 57 : I wish I could afford this](./ch2/unit57.md)
-
+    * [Unit 58 : You’ve got such great taste](./ch2/unit58.md)
+    * [Unit 59 : What a bargain!](./ch2/unit59.md)
+    * [Unit 60 : You’ve been ripped off!](./ch2/unit60.md)
