@@ -19,4 +19,6 @@
     * [Unit 53 : It’s up to you](./ch2/unit53.md)
     * [Unit 54 : Is it available in Taiwan?](./ch2/unit54.md)
     * [Unit 55 : How about this one?](./ch2/unit55.md)
+    * [Unit 56 : It is because of its price](./ch2/unit56.md)
+    * [Unit 57 : I wish I could afford this](./ch2/unit57.md)
 
