@@ -26,7 +26,7 @@ bargain||(n.) 交易
 
 ##### 《Examples》
 1. The due date is down to just a week.
-2.This elevator can go down to B12.
+2. This elevator can go down to B12.
 
 ## EXERCISES 
 * A: How is the stock market rates?
