@@ -24,3 +24,6 @@
     * [Unit 58 : You’ve got such great taste](./ch2/unit58.md)
     * [Unit 59 : What a bargain!](./ch2/unit59.md)
     * [Unit 60 : You’ve been ripped off!](./ch2/unit60.md)
+    * [Unit 61 : I haggled the price down to $25](./ch2/unit61.md)
+    * [Unit 62 : That’s my job](./ch2/unit62.md)
+    * [Unit 63 : I had to buy it](./ch2/unit63.md)
