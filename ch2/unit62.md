@@ -15,11 +15,12 @@
 ## WORDS & PHRASES
 單字 vocabulary|發音 pronunciation|翻譯 translation
 ---|---|---
-ma||(v.) 稱...先生
-help out||(對婦女的恭敬稱呼)夫人，太太，小姐
-skirt||(phr.) 幫忙
-keep a close eye on||(n.) 裙子
-stock||(phr.) 非常注意
+Mister||(v.) 稱...先生
+ma’am||(對婦女的恭敬稱呼)夫人，太太，小姐
+help out||(phr.) 幫忙
+skirt||(n.) 裙子
+keep a close eye on||(phr.) 非常注意
+stock||(n.) 庫存品
 
 ## LANGUAGE FOCUS 
 > <h3>That’s one’s + N</h3>

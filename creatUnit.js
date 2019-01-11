@@ -99,7 +99,7 @@ function handleA(str) {
 function handleB(str) {
     //e.g. 'aaa','aaa aaa','aaa-aaa'
     //e.g. 'a aa aaa',片語空格或連字1個以上
-    let regexp1 = /\d+\. ((\w+[- ]?)+)/g
+    let regexp1 = /\d+\. ?((\w+[- ’]?)+)/g
     let regexp2 = /\(.+/g
     let outStr = ''
 
@@ -108,7 +108,7 @@ function handleB(str) {
     // console.log(x)
 
     for (let i = 0; i < x.length; i++) {
-        x[i]=x[i].replace(/\d+\. /,'')
+        x[i]=x[i].replace(/\d+\. ?/,'')
         x[i]=x[i].trim()
         outStr += x[i]+ "||" + y[i] + '\n';
     }
