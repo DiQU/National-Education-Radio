@@ -31,4 +31,5 @@
     * [Unit 65 : It is too expensive!](./ch2/unit65.md)
     * [Unit 66 : Time for some crazy shopping!](./ch2/unit66.md)
     * [Unit 67 : We’ll be able to buy this after payday](./ch2/unit67.md)
+    * [Unit 68 : You are really stingy!](./ch2/unit68.md)
     
