@@ -33,4 +33,4 @@
     * [Unit 67 : We’ll be able to buy this after payday](./ch2/unit67.md)
     * [Unit 68 : You are really stingy!](./ch2/unit68.md)
     * [Unit 69 : What a beautiful bracelet!](./ch2/unit69.md)
-    
+    * [Unit 70 : Give the shopkeeper a break](./ch2/unit70.md)
