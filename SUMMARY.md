@@ -29,3 +29,4 @@
     * [Unit 63 : I had to buy it](./ch2/unit63.md)
     * [Unit 64 : You look really chic](./ch2/unit64.md)
     * [Unit 65 : It is too expensive!](./ch2/unit65.md)
+    * [Unit 66 : Time for some crazy shopping!](./ch2/unit66.md)
