@@ -21,7 +21,8 @@ function printGitbook(file) {
     let partB = searchPart(file, 'B. WORDS & PHRASES', 'C. LANGUAGE FOCUS')
     partB = handleB(partB)
     let partC1 = searchPart(file, 'C. LANGUAGE FOCUS', '《Examples》')
-    let partC2 = searchPart(file, '《Examples》', 'D. EXERCISES')
+    let partC2 = searchPart(file, 'C. LANGUAGE FOCUS', 'D. EXERCISES')
+    partC2=handleC2(partC2);
     let partD1 = searchPart(file, 'D. EXERCISES', '《Answer Key》')
     partD1 = handleD1(partD1)
     let partD2 = file.match(/《Answer Key》: ?(.+)/)
@@ -46,9 +47,7 @@ ${partB}
 ## LANGUAGE FOCUS 
 > <h3>${partC1}</h3>
 
-##### 《Examples》
 ${partC2}
-
 ## EXERCISES 
 ${partD1}
 
@@ -75,11 +74,9 @@ function handleUnit(file) {
     let unit = file.match(title)
     let str=[]
     str[0]=`Unit ${unit[1]} : ${unit[3]}`
-    str[1]=`* [Unit ${unit[1]} : ${unit[3]}](./ch2/unit${unit[1]}.md)`
+    str[1]=`* [Unit ${unit[1]} : ${unit[3]}](./ch1/unit${unit[1]}.md)`
     // console.log(unit);
-
     return str
-    
 }
 
 function handleA(str) {
@@ -115,6 +112,32 @@ function handleB(str) {
 
     return outStr.trim();
 }
+
+function handleC2(str){
+    let regexp1=/《.+》/g
+    let regexp2=/\d\..+/g
+
+    const item=[]
+    const p=str.split(regexp1)
+    p.shift()
+
+    const title=str.match(regexp1)
+
+    item2=[];
+    for(let i=0;i<p.length;i++){
+        item[i]=p[i].match(regexp2)
+        item2[i]=item[i].join('\n')
+    }
+    // console.log(item2);
+    outStr=''
+    for(let i=0;i<p.length;i++){
+        outStr+=`#### ${title[i]}\n${item2[i]}\n\n`
+    }
+    console.log(outStr);
+    return outStr
+    
+}
+
 function handleD1(str) {
     let strArr=str.split(/\n|\r\n/)
     strArr=strArr.map(elem => '* '+elem)
