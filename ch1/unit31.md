@@ -23,11 +23,11 @@ around the corner||(phr.) 在附近
 ## LANGUAGE FOCUS 
 > <h3>You seem + ADJ</h3>
 
-#### 《Examples》
+##### 《Examples》
 1. You seem ill, take this medicine.
 2. You seem nervous, what’s wrong?
 
-#### 《NOTE》
+##### 《NOTE》
 1. He seems like a great guy.
 2. She seems like a busy person.
 
