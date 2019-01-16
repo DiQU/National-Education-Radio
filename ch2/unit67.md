@@ -1,7 +1,7 @@
 # Unit 67 : We’ll be able to buy this after payday
 
 <audio controls preload="none">
-  <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e61cf95e3500064f431bunit">
+  <source src="https://channelplus.ner.gov.tw/api/audio/5ad2e61cf95e3500064f431b">
 </audio>
 
 ## CONVERSATION
