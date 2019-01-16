@@ -131,6 +131,10 @@ function handleC2(str){
     // console.log(item2);
     outStr=''
     for(let i=0;i<p.length;i++){
+        if(i == p.length-1){
+            outStr+=`##### ${title[i]}\n${item2[i]}\n`
+            continue
+        }
         outStr+=`##### ${title[i]}\n${item2[i]}\n\n`
     }
     console.log(outStr);

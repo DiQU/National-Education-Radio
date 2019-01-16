@@ -4,6 +4,7 @@
 * [Unit1~50 旅行篇]
     * [Unit 31 : You seem lost](./ch1/unit31.md)
     * [Unit 32 : Would it be okay to add onions ?](./ch1/unit32.md)
+    * [Unit 33 : Do you have some change ?](./ch1/unit33.md)
     * [Unit 40 : Would you please help me ?](./ch1/unit40.md)
     * [Unit 41 : You should’ve kept an eye on it](./ch1/unit41.md)
     * [Unit 42 : Is this seat taken ?](./ch1/unit42.md)
