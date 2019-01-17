@@ -29,7 +29,7 @@
     * [Unit 45 : I guess we’ll just have to take the bus](./ch1/unit45.md)
     * [Unit 46 : I wish I could get away for a while](./ch1/unit46.md)
     * [Unit 47 : You’ve got to try this](./ch1/unit47.md)
-    * [Unit 48 : Let me clean my own room](./ch1/unit47.md)
+    * [Unit 48 : Let me clean my own room](./ch1/unit48.md)
     * [Unit 49 : Make it fast please](./ch1/unit49.md)
     * [Unit 50 : No wonder there are so many people](./ch1/unit50.md)
 * [Unit51~ 購物篇]
