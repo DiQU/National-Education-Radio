@@ -137,7 +137,7 @@ function handleC2(str){
         }
         outStr+=`##### ${title[i]}\n${item2[i]}\n\n`
     }
-    console.log(outStr);
+    // console.log(outStr);
     return outStr
     
 }
