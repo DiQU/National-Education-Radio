@@ -2,6 +2,16 @@
 
 * [Introduction](README.md)
 * [Unit1~50 旅行篇]
+    * [Unit 11 : That sounds like fun!](./ch1/unit11.md)
+    * [Unit 12 : Here are your orders](./ch1/unit12.md)
+    * [Unit 13 : May I help you?](./ch1/unit13.md)
+    * [Unit 14 : Please be careful!](./ch1/unit14.md)
+    * [Unit 15 : Do I know you?](./ch1/unit15.md)
+    * [Unit 16 : Let me check that](./ch1/unit16.md)
+    * [Unit 17 : Where is my laundry?](./ch1/unit17.md)
+    * [Unit 18 : It is kind of disturbing](./ch1/unit18.md)
+    * [Unit 19 : It looks really good](./ch1/unit19.md)
+    * [Unit 20 : I enjoy the city](./ch1/unit20.md)
     * [Unit 21 : There is someone at the door](./ch1/unit21.md)
     * [Unit 22 : his is the last stop](./ch1/unit22.md)
     * [Unit 23 : Did you pack my luggage?](./ch1/unit23.md)
