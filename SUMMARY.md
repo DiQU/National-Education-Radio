@@ -2,6 +2,16 @@
 
 * [Introduction](README.md)
 * [Unit1~50 旅行篇]
+    * [Unit 1 : You are very helpful.](./ch1/unit1.md)
+    * [Unit 2 : Can you meet me at the airport?](./ch1/unit2.md)
+    * [Unit 3 : I'd like to book a flight.](./ch1/unit3.md)
+    * [Unit 4 : Is that my seat?](./ch1/unit4.md)
+    * [Unit 5 : Stay calm](./ch1/unit5.md)
+    * [Unit 6 : Can you lend me a pen?](./ch1/unit6.md)
+    * [Unit 7 : Would you like to have lunch?](./ch1/unit7.md)
+    * [Unit 8 : I want to welcome you to the United States](./ch1/unit8.md)
+    * [Unit 9 : How much would it cost me?](./ch1/unit9.md)
+    * [Unit 10 : Is it possible to check in?](./ch1/unit10.md)
     * [Unit 11 : That sounds like fun!](./ch1/unit11.md)
     * [Unit 12 : Here are your orders](./ch1/unit12.md)
     * [Unit 13 : May I help you?](./ch1/unit13.md)
