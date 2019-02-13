@@ -79,3 +79,8 @@
     * [Unit 73 : That’s a rip-off!](./ch2/unit73.md)
     * [Unit 74 : Only 200 dollars for this?](./ch2/unit74.md)
     * [Unit 75 : I want to look glamorous](./ch2/unit75.md)
+    * [Unit 76 : It’s directly from France](./ch2/unit76.md)
+    * [Unit 77 : I’d suggest this color](./ch2/unit77.md)
+    * [Unit 78 : I’m ready to shop like crazy!](./ch2/unit78.md)
+    * [Unit 79 : Don’t forget to buy a tie](./ch2/unit79.md)
+    * [Unit 80 : It’s hard to decide between these](./ch2/unit80.md)
