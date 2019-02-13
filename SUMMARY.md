@@ -88,3 +88,8 @@
     * [Unit 83 : It’s too salty!](./ch2/unit83.md)
     * [Unit 84 : Please come again](./ch2/unit84.md)
     * [Unit 85 : It tastes like stale bread!](./ch2/unit85.md)
+    * [Unit 86 : How do you want your beef?](./ch2/unit86.md)
+    * [Unit 87 : Make it quick, please](./ch2/unit87.md)
+    * [Unit 88 : I want it lean](./ch2/unit88.md)
+    * [Unit 89 : How often do you eat out?](./ch2/unit89.md)
+    * [Unit 90 : I’d like to reserve a table for dinner](./ch2/unit90.md)
