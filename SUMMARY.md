@@ -12,7 +12,6 @@
     * [Unit 8 : I want to welcome you to the United States](./ch1/unit8.md)
     * [Unit 9 : How much would it cost me?](./ch1/unit9.md)
     * [Unit 10 : Is it possible to check in?](./ch1/unit10.md)
-
     * [Unit 11 : That sounds like fun!](./ch1/unit11.md)
     * [Unit 12 : Here are your orders](./ch1/unit12.md)
     * [Unit 13 : May I help you?](./ch1/unit13.md)
@@ -53,7 +52,7 @@
     * [Unit 48 : Let me clean my own room](./ch1/unit48.md)
     * [Unit 49 : Make it fast please](./ch1/unit49.md)
     * [Unit 50 : No wonder there are so many people](./ch1/unit50.md)
-* [Unit51~ 購物篇]
+* [Unit51~100 購物篇]
     * [Unit 51 : Let’s go shopping!](./ch2/unit51.md)
     * [Unit 52 : Which dress do you like better?](./ch2/unit52.md)
     * [Unit 53 : It’s up to you](./ch2/unit53.md)
@@ -84,3 +83,8 @@
     * [Unit 78 : I’m ready to shop like crazy!](./ch2/unit78.md)
     * [Unit 79 : Don’t forget to buy a tie](./ch2/unit79.md)
     * [Unit 80 : It’s hard to decide between these](./ch2/unit80.md)
+    * [Unit 81 : I was caught eating ice-cream](./ch2/unit81.md)
+    * [Unit 82 : This used to be a decent restaurant](./ch2/unit82.md)
+    * [Unit 83 : It’s too salty!](./ch2/unit83.md)
+    * [Unit 84 : Please come again](./ch2/unit84.md)
+    * [Unit 85 : It tastes like stale bread!](./ch2/unit85.md)
