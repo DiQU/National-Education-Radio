@@ -74,7 +74,7 @@ function handleUnit(file) {
     let unit = file.match(title)
     let str=[]
     str[0]=`Unit ${unit[1]} : ${unit[3]}`
-    str[1]=`* [Unit ${unit[1]} : ${unit[3]}](./ch1/unit${unit[1]}.md)`
+    str[1]=`* [Unit ${unit[1]} : ${unit[3]}](./ch2/unit${unit[1]}.md)`
     // console.log(unit);
     return str
 }

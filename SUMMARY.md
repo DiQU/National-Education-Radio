@@ -12,6 +12,7 @@
     * [Unit 8 : I want to welcome you to the United States](./ch1/unit8.md)
     * [Unit 9 : How much would it cost me?](./ch1/unit9.md)
     * [Unit 10 : Is it possible to check in?](./ch1/unit10.md)
+
     * [Unit 11 : That sounds like fun!](./ch1/unit11.md)
     * [Unit 12 : Here are your orders](./ch1/unit12.md)
     * [Unit 13 : May I help you?](./ch1/unit13.md)
@@ -73,3 +74,8 @@
     * [Unit 68 : You are really stingy!](./ch2/unit68.md)
     * [Unit 69 : What a beautiful bracelet!](./ch2/unit69.md)
     * [Unit 70 : Give the shopkeeper a break](./ch2/unit70.md)
+    * [Unit 71 : I wish I didn’t buy that pair of pants](./ch2/unit71.md)
+    * [Unit 72 : I’m just browsing](./ch2/unit72.md)
+    * [Unit 73 : That’s a rip-off!](./ch2/unit73.md)
+    * [Unit 74 : Only 200 dollars for this?](./ch2/unit74.md)
+    * [Unit 75 : I want to look glamorous](./ch2/unit75.md)
