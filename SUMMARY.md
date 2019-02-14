@@ -93,3 +93,8 @@
     * [Unit 88 : I want it lean](./ch2/unit88.md)
     * [Unit 89 : How often do you eat out?](./ch2/unit89.md)
     * [Unit 90 : I’d like to reserve a table for dinner](./ch2/unit90.md)
+    * [Unit 91 : It’s my treat](./ch2/unit91.md)
+    * [Unit 92 : I think it is great](./ch2/unit92.md)
+    * [Unit 93 : I’m sure there’s enough for all of us](./ch2/unit93.md)
+    * [Unit 94 : Why don’t you try it?](./ch2/unit94.md)
+    * [Unit 95 : I’m on a diet](./ch2/unit95.md)
