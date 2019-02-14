@@ -98,3 +98,8 @@
     * [Unit 93 : I’m sure there’s enough for all of us](./ch2/unit93.md)
     * [Unit 94 : Why don’t you try it?](./ch2/unit94.md)
     * [Unit 95 : I’m on a diet](./ch2/unit95.md)
+    * [Unit 96 : I’m afraid you’re allergic to the food](./ch2/unit96.md)
+    * [Unit 97 : That’s how you cook salmon](./ch2/unit97.md)
+    * [Unit 98 : This is too good a treat!](./ch2/unit98.md)
+    * [Unit 99 : I’m going to save it for later](./ch2/unit99.md)
+    * [Unit 100 : I’m dying for the lunch break](./ch2/unit100.md)
